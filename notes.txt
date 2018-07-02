@@ -1,0 +1,18 @@
+1. create admin panel
+ - login
+ - index
+   - display all posts
+   - have a link to create post
+   - have a link to delete post
+ - create post
+   - after submitting the post, go to index
+ - updating post
+   - after updating the post, got to index
+
+2. create user view 
+  - index
+    - display all posts from admin
+  - view post
+    - can read post
+
+VERSION: Laravel Framework 5.6.26
